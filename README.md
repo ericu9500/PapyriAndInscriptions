@@ -1,6 +1,6 @@
 # Instruct-Tuning Larger Pretrained Causal Language Models for the Reconstruction, Geographical Attribution, and Dating of Ancient Greek Documentary Texts
 
-This repository contains all the necessary files and resources used in a study that is currently under review. The goal of the study is to fine-tune pretrained causal language models for reconstructing, geographically attributing, and dating ancient Greek documentary texts, including papyri and inscriptions.
+This repository contains files and resources used in a study that is currently under review. The goal of the study is to fine-tune pretrained causal language models for reconstructing, geographically attributing, and dating ancient Greek documentary texts, including papyri and inscriptions.
 
 ## Overview
 

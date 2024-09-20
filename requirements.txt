@@ -1,0 +1,9 @@
+numpy==1.26.2
+tqdm==4.66.4
+beautifulsoup4==4.12.2
+gitpython==3.1.43
+torch==2.4.1
+transformers==4.44.2
+datasets==3.0.0
+torchtune==0.2.1
+mergekit==0.3.0

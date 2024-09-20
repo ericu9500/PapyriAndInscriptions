@@ -1,0 +1,13 @@
+# These parameters were used when merging the two top-performing text models
+
+models:
+  - model: # {path to original llama model}
+  - model: # {path to best text model}
+    parameters:
+      density: # 1.1 for Ericu950/Papy_1_Llama-3.1-8B-Instruct_text, 0.5 for Ericu950/Epigr_1_Llama-3.1-8B-Instruct_text
+      weight: # 0.5 for Ericu950/Papy_1_Llama-3.1-8B-Instruct_text, 1.0 for Ericu950/Epigr_1_Llama-3.1-8B-Instruct_text
+merge_method: ties
+base_model: # {path to original llama model}
+parameters:
+  normalize: true
+dtype: bfloat16

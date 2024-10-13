@@ -1,0 +1,435 @@
+{"real_response": "Palaestina", "predictions": {"rank_1": "Syria and Phoenicia", "rank_2": "Egypt and Nubia", "rank_3": "Arabia"}}
+{"real_response": "Mysia", "predictions": {"rank_1": "Mysia", "rank_2": "Mysia, Pergamon", "rank_3": "Thrace and Moesia Superior"}}
+{"real_response": "Cyclades, excl. Delos", "predictions": {"rank_1": "Italy, incl. Magna Graecia", "rank_2": "Doric Sporades", "rank_3": "Ionia"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Atticaassistant\n\nAttica", "rank_3": "Atticaassistant\n\nAttica"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Italy, incl. Magna Graecia", "rank_3": "Atticaassistant\n\nAttica"}}
+{"real_response": "Lesbos, Nesos, and Tenedos", "predictions": {"rank_1": "Aeolis", "rank_2": "Lesbos, Nesosdia", "rank_3": "Lesbos, Nesosdiaease"}}
+{"real_response": "Caria", "predictions": {"rank_1": "Caria", "rank_2": "Cariaassistant\n\nCaria", "rank_3": "CardiaEgyptPontusItalySicilySaronic GulfPhok"}}
+{"real_response": "Egypt and Nubia", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "Cyrenaïca", "rank_3": "Italy, incl. Magna Graecia"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Cyclades, excl. Delos", "rank_3": "Delos"}}
+{"real_response": "Sicily, Sardinia, and neighboring Islands", "predictions": {"rank_1": "Italy, incl. Magna Graecia", "rank_2": "Macedonia", "rank_3": "Ionia"}}
+{"real_response": "Italy, incl. Magna Graecia", "predictions": {"rank_1": "Italy, incl. Magna Graecia", "rank_2": "Bithynia", "rank_3": "Italy, incl. Magnа Graecia"}}
+{"real_response": "Egypt and Nubia", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "Egypt and Nubaia", "rank_3": "Egypt and Nubsia"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Macedonia", "rank_2": "Mysia", "rank_3": "Lycaonia"}}
+{"real_response": "Delphi", "predictions": {"rank_1": "Delphi", "rank_2": "Delphiassistant\n\nDelphi", "rank_3": "Delphiassistant\n\nDelphi"}}
+{"real_response": "Delphi", "predictions": {"rank_1": "Delphi", "rank_2": "Doric Sporades", "rank_3": "Del phiokελλανic"}}
+{"real_response": "Phrygia", "predictions": {"rank_1": "Phrygia", "rank_2": "Lycaonia", "rank_3": "Pontus and Paphylia"}}
+{"real_response": "Thrace and Moesia Inferior", "predictions": {"rank_1": "Lydia", "rank_2": "Phrygia", "rank_3": "Mysia, Pergamon"}}
+{"real_response": "Syria and Phoenicia", "predictions": {"rank_1": "Cilicia and Isauria", "rank_2": "Syria and Phoenicia", "rank_3": "Arabia"}}
+{"real_response": "Epeiros, Illyria, and Dalmatia", "predictions": {"rank_1": "Sicily, Sardinia, and neighboring Islands", "rank_2": "Scythia Minor", "rank_3": "Attica"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Lakonia and Messenia", "rank_3": "Delos"}}
+{"real_response": "Arkadia", "predictions": {"rank_1": "unspecified subregion", "rank_2": "Attica", "rank_3": "Sicily, Sardinia and neighboring Islands"}}
+{"real_response": "Lakonia and Messenia", "predictions": {"rank_1": "Lakonia and Messenia", "rank_2": "Lakonia andMesenia", "rank_3": " Lakonia and Messenia"}}
+{"real_response": "Rhodes and S. Dodecanese", "predictions": {"rank_1": "Caria, Rhodian Peraia", "rank_2": "Rhodes and S. Dodeshan", "rank_3": " RhRhRhRhRhRhRhRh"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Ioniaassistant\n\nIonia", "rank_3": "Phrygia"}}
+{"real_response": "Epeiros, Illyria, and Dalmatia", "predictions": {"rank_1": "Epeiros / Illyria / AdriAttica", "rank_2": "Epeiros, Ilrydia, andCrete", "rank_3": "Epeiros / Illyria / Albania"}}
+{"real_response": "Delphi", "predictions": {"rank_1": "Delphi", "rank_2": "Delphiassistant\n\nDelphi", "rank_3": "Delphiassistant\n\nDelphi"}}
+{"real_response": "Caria", "predictions": {"rank_1": "Palaestina", "rank_2": "unspecified subregion", "rank_3": "Ionia"}}
+{"real_response": "Scythia Minor", "predictions": {"rank_1": "Scythia Minor", "rank_2": "Bithynia", "rank_3": "Scythia Minor,Italy"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Lycia", "rank_2": "Ionia", "rank_3": "Pamphylia"}}
+{"real_response": "Pontus and Paphlagonia", "predictions": {"rank_1": "Pontus and Paphlagonia", "rank_2": "Pontus andPaphlagonia", "rank_3": "Pontus and Paph lycia"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Cos and Calymna", "rank_3": "Atticaassistant\n\nAttica"}}
+{"real_response": "Saronic Gulf, Corinthia, and the Argolid", "predictions": {"rank_1": "Sicily, Sardinia, and neighboring Islands", "rank_2": "Macedonia", "rank_3": "Crete"}}
+{"real_response": "Megaris, Oropia, and Boiotia", "predictions": {"rank_1": "Megaris, Oropia, and Boiotia", "rank_2": "Megaris, Oropia, and Boötia", "rank_3": "Megaris, Oropia, and Boortos"}}
+{"real_response": "Lydia", "predictions": {"rank_1": "Phrygia", "rank_2": "Aeolis", "rank_3": "Lydia"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Mysia, Pergamon", "rank_3": "Caria, Rhodian Peraia"}}
+{"real_response": "Macedonia", "predictions": {"rank_1": "Macedonia", "rank_2": "Pontus and Paphlagonia", "rank_3": "Phrygia"}}
+{"real_response": "Lycia", "predictions": {"rank_1": "Lycia", "rank_2": "Caria", "rank_3": "Pisidia"}}
+{"real_response": "Phokis, Lokris, Aitolia, Akarnania, and Ionian Islands", "predictions": {"rank_1": "Thessaly", "rank_2": "Delphi", "rank_3": "Phokis, Lokris"}}
+{"real_response": "Pisidia", "predictions": {"rank_1": "Pamphylia", "rank_2": "Pisidia", "rank_3": "Phrygia"}}
+{"real_response": "Italy, incl. Magna Graecia", "predictions": {"rank_1": "Italy, incl. Magna Graecia", "rank_2": "Lycia", "rank_3": "Italy, incl. Magna Graecdia"}}
+{"real_response": "Egypt and Nubia", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "Ionia", "rank_3": "Ioniaassistant\n\nIonia"}}
+{"real_response": "Phrygia", "predictions": {"rank_1": "Phrygia", "rank_2": "Pisidia", "rank_3": "Phrydia"}}
+{"real_response": "Chios", "predictions": {"rank_1": "Chios", "rank_2": "Ionia", "rank_3": "ThyclEgyptEgyptEgyptEgyptEgypt"}}
+{"real_response": "Egypt and Nubia", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "Syria and Phoenicia", "rank_3": "Egypt and Nubaia"}}
+{"real_response": "Pamphylia", "predictions": {"rank_1": "Ionia", "rank_2": "Lycia", "rank_3": "Egypt and Nubia"}}
+{"real_response": "Palaestina", "predictions": {"rank_1": "Palaestina", "rank_2": "Palaestina /EgyptEgypt", "rank_3": "Palaestina / Palestina"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Atticaassistant\n\nAttica", "rank_3": "Atticaassistant\n\nAttica"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Crete", "rank_3": "Troas"}}
+{"real_response": "Sicily, Sardinia, and neighboring Islands", "predictions": {"rank_1": "Cyrenaïca", "rank_2": "Lydia", "rank_3": "Italy, incl.Macedonia"}}
+{"real_response": "Megaris, Oropia, and Boiotia", "predictions": {"rank_1": "Megaris, Oropia, and Boiotia", "rank_2": "Megaris, Oropia, and Boötia", "rank_3": "Megaris, Oropia, and Boortos"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Ioniaassistant\n\nIonia", "rank_3": "Samosassistant\n\nIonia"}}
+{"real_response": "Delphi", "predictions": {"rank_1": "Delphi", "rank_2": "Doric Sporades", "rank_3": "Delphi\n\nDelphi"}}
+{"real_response": "Egypt and Nubia", "predictions": {"rank_1": "Italy, incl. Magna Graecia", "rank_2": "Egypt and Nubia", "rank_3": "Italy, incl. Magna GraECia"}}
+{"real_response": "Arkadia", "predictions": {"rank_1": "Arkadia", "rank_2": "Arkadiaassistant\n\nArkadia", "rank_3": "ArkdiaMegarisEgyptEgyptAttica"}}
+{"real_response": "Troas", "predictions": {"rank_1": "Troas", "rank_2": "Troasassistant\n\nTroas", "rank_3": "Troasassistant\n\nTroas"}}
+{"real_response": "Galatia", "predictions": {"rank_1": "Bithynia", "rank_2": "Galatia", "rank_3": "Thrace and Moesia Superior"}}
+{"real_response": "Lycia", "predictions": {"rank_1": "unspecified subregion", "rank_2": "Macedonia", "rank_3": "Mysia, Pergamon"}}
+{"real_response": "Macedonia", "predictions": {"rank_1": "Mysia", "rank_2": "Mysia, Pergamon", "rank_3": "Phrygia"}}
+{"real_response": "Northern Aegean", "predictions": {"rank_1": "Northern Aegean", "rank_2": "Thrace and Moesia Inferior", "rank_3": "Thessaly"}}
+{"real_response": "Rhodes and S. Dodecanese", "predictions": {"rank_1": "Rhodes and Saronic Gulf Islands", "rank_2": "Rhodes and S Dodecanese", "rank_3": " RhRhRhRhRhRhRhRh"}}
+{"real_response": "Delos", "predictions": {"rank_1": "Delos", "rank_2": "Attica", "rank_3": "Delusia,Attica"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Italy, incl. Magna Graecia", "rank_2": "Attica", "rank_3": "Syria and Phoenicia"}}
+{"real_response": "Caria", "predictions": {"rank_1": "Caria", "rank_2": "Caria, Rhodian Peraia", "rank_3": "Cos and Calymna"}}
+{"real_response": "Italy, incl. Magna Graecia", "predictions": {"rank_1": "Phrygia", "rank_2": "Pontus and Paphlagonia", "rank_3": "Egypt and Nubia"}}
+{"real_response": "Cyclades, excl. Delos", "predictions": {"rank_1": "Attica", "rank_2": "Cyclades, excl. Delos", "rank_3": "Northern Aegean"}}
+{"real_response": "Thessaly", "predictions": {"rank_1": "Macedonia", "rank_2": "Mysia, Pergamon", "rank_3": "Thrace and Moesia Inferior"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Ioniaassistant\n\nIonia", "rank_3": "Ioniaassistant\n\nIonia"}}
+{"real_response": "Mysia", "predictions": {"rank_1": "Ionia", "rank_2": "Susiana", "rank_3": "Mesopotamia"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": " AttAttAttAttAttAttAtt", "rank_3": " AtticAtticAttica"}}
+{"real_response": "Phrygia", "predictions": {"rank_1": "Phrygia", "rank_2": "Lydia", "rank_3": "Thrace and Moesia Inferior"}}
+{"real_response": "Italy, incl. Magna Graecia", "predictions": {"rank_1": "Italy, incl. Magna Graecia", "rank_2": "Italy, incl. Magna GraECia", "rank_3": "Italy, excl. Magna Graecia"}}
+{"real_response": "Delphi", "predictions": {"rank_1": "Delphi", "rank_2": "Pontus and Paphlagonia", "rank_3": "Mysia, Pergamon"}}
+{"real_response": "Cyclades, excl. Delos", "predictions": {"rank_1": "Phrygia", "rank_2": "Mysia, Pergamon", "rank_3": "Pisidia"}}
+{"real_response": "Saronic Gulf, Corinthia, and the Argolid", "predictions": {"rank_1": "Attica", "rank_2": "Thessaly", "rank_3": "Macedonia"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Northern Aegean", "rank_3": "Thessaly"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Atticaassistant\n\nAttica", "rank_3": "Atticaassistant\n\nAttica"}}
+{"real_response": "Egypt and Nubia", "predictions": {"rank_1": "Macedonia", "rank_2": "Phrygia", "rank_3": "Lycaonia"}}
+{"real_response": "Caria", "predictions": {"rank_1": "Caria", "rank_2": "Caria, Rhodian Peraia", "rank_3": "Northern Aegean"}}
+{"real_response": "Epeiros, Illyria, and Dalmatia", "predictions": {"rank_1": "Lesbos, Nesos, and Tenedos", "rank_2": "Italy, incl. Magna Graecia", "rank_3": "Epeiros, Illyria, and Daronia"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Atticaassistant\n\nAttica", "rank_3": "Atticaassistant\n\nAttica"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Ionia /Lydia", "rank_3": "Ionia / Lydia"}}
+{"real_response": "Macedonia", "predictions": {"rank_1": "Macedonia", "rank_2": "Thessaly", "rank_3": "Makaron 0 0"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Northern Aegean", "rank_3": "Palaestina"}}
+{"real_response": "Delphi", "predictions": {"rank_1": "Delphi", "rank_2": "Samos", "rank_3": "Cyclades, excl. Delos"}}
+{"real_response": "Syria and Phoenicia", "predictions": {"rank_1": "Cilicia and Isauria", "rank_2": "Thrace and Moesia Inferior", "rank_3": "Cyclades, excl. Delos"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Eleusis", "rank_3": "AttICA,Attica"}}
+{"real_response": "Cilicia and Isauria", "predictions": {"rank_1": "Macedonia", "rank_2": "Mysia", "rank_3": "Phrygia"}}
+{"real_response": "Rhodes and S. Dodecanese", "predictions": {"rank_1": "Sicily, Sardinia, and neighboring Islands", "rank_2": "Rhodes and S. Dodecanese", "rank_3": "Sicily,Sardinia, and neighboring Islands"}}
+{"real_response": "Samos", "predictions": {"rank_1": "Caria", "rank_2": "Samos", "rank_3": "Attica"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Ionia /Ionia", "rank_3": "Ioniaassistant\n\nIonia"}}
+{"real_response": "Mysia, Pergamon", "predictions": {"rank_1": "Mysia, Pergamon", "rank_2": "Lydia", "rank_3": "Cilicia and Isauria"}}
+{"real_response": "Macedonia", "predictions": {"rank_1": "Italy, incl. Magna Graecia", "rank_2": "Sicily, Sardinia, and neighboring Islands", "rank_3": "Cos and Calymna"}}
+{"real_response": "Chios", "predictions": {"rank_1": "Attica", "rank_2": "Thrace and Moesia Inferior", "rank_3": "Egypt and Nubia"}}
+{"real_response": "Cos and Calymna", "predictions": {"rank_1": "Cos and Calymna", "rank_2": "Cos and Calycnaia", "rank_3": "Cos and Calycia"}}
+{"real_response": "Arabia", "predictions": {"rank_1": "Arabia", "rank_2": "Syria and Phoenicia", "rank_3": "Palaestina"}}
+{"real_response": "Egypt and Nubia", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "Egypt and Nubaia", "rank_3": "Egypt and Nubsia"}}
+{"real_response": "Pisidia", "predictions": {"rank_1": "Pisidia", "rank_2": "Cilicia and Isauria", "rank_3": "Pamphylia"}}
+{"real_response": "Pisidia", "predictions": {"rank_1": "Thrace and Moesia Inferior", "rank_2": "Macedonia", "rank_3": "Lycaonia"}}
+{"real_response": "Cos and Calymna", "predictions": {"rank_1": "Cos and Calymna", "rank_2": "unspecified subregion", "rank_3": "Cos and CalymNA, andCrete"}}
+{"real_response": "Syria and Phoenicia", "predictions": {"rank_1": "Syria and Phoenicia", "rank_2": "Unknown Provenance", "rank_3": "Syria andPhoenicia"}}
+{"real_response": "Bithynia", "predictions": {"rank_1": "Lakonia and Messenia", "rank_2": "Bithynia", "rank_3": "Lycia"}}
+{"real_response": "Pamphylia", "predictions": {"rank_1": "Pamphylia", "rank_2": "Galatia", "rank_3": "Cos and Calymna"}}
+{"real_response": "Pisidia", "predictions": {"rank_1": "Pisidia", "rank_2": "Mysia, Pergamon", "rank_3": "Phrygia"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Thrace and Moesia Inferior", "rank_3": "Thessaly"}}
+{"real_response": "Eleusis", "predictions": {"rank_1": "Attica", "rank_2": "Atticaassistant\n\nAttica", "rank_3": "Atticaassistant\n\nAttica"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Mysia, Pergamon", "rank_3": "Sia, Palaestina"}}
+{"real_response": "Crete", "predictions": {"rank_1": "Crete", "rank_2": "Caria, Rhodian Peraia", "rank_3": "Creteassistant\n\nCrete"}}
+{"real_response": "Cos and Calymna", "predictions": {"rank_1": "Cos and Calymna", "rank_2": "Cos and Calymna,Macedonia", "rank_3": "Cos and Calymna, andAttica"}}
+{"real_response": "Arkadia", "predictions": {"rank_1": "Epidauria", "rank_2": "Scythia Minor", "rank_3": "Euboia"}}
+{"real_response": "Pisidia", "predictions": {"rank_1": "Pisidia", "rank_2": "Phrygia", "rank_3": "Lycia"}}
+{"real_response": "unspecified subregion", "predictions": {"rank_1": "unspecified subregion", "rank_2": "Pontus and Paphlagonia", "rank_3": "unspecifiedEgypt and Nubia"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Atticaassistant\n\nAttica", "rank_3": "Atticaassistant\n\nAttica"}}
+{"real_response": "Egypt and Nubia", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "Egypt and Nubaia", "rank_3": "Egypt and Nubsia"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Eleusis", "rank_2": "Eleusisassistant\n\nAttica", "rank_3": "Eleusisassistant\n\nAttica"}}
+{"real_response": "Caria", "predictions": {"rank_1": "Caria", "rank_2": "Caria, Rhodian Peraia", "rank_3": "Caria,Rhodian Peraia"}}
+{"real_response": "Phrygia", "predictions": {"rank_1": "Phrygia", "rank_2": "Caria, Rhodian Peraia", "rank_3": "Phrydia,Phrygia"}}
+{"real_response": "Mysia", "predictions": {"rank_1": "Samos", "rank_2": "Syria and Phoenicia", "rank_3": "Syria andPhoenicia"}}
+{"real_response": "Delos", "predictions": {"rank_1": "Italy, incl. Magna Graecia", "rank_2": "Egypt and Nubia", "rank_3": "Italy, incl. Magna GraECia"}}
+{"real_response": "Moesia Superior", "predictions": {"rank_1": "unspecified subregion", "rank_2": "ThrygesPhrygia", "rank_3": "Thrace and Moesdia"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Cilicia and Isauria", "rank_3": "Iberia and Colchis"}}
+{"real_response": "unspecified subregion", "predictions": {"rank_1": "Ionia", "rank_2": "Crete", "rank_3": "unspecified subregion"}}
+{"real_response": "Pisidia", "predictions": {"rank_1": "Pisidia", "rank_2": "unspecified subregion", "rank_3": "Pamphylia"}}
+{"real_response": "Pontus and Paphlagonia", "predictions": {"rank_1": "Arabia", "rank_2": "Phrygia", "rank_3": "Armenia"}}
+{"real_response": "Rhamnous", "predictions": {"rank_1": "Attica", "rank_2": "Rhamnous", "rank_3": "Euboia"}}
+{"real_response": "Egypt and Nubia", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": " EgyptianEgypt and Nubia", "rank_3": "Egypt and Nubsia"}}
+{"real_response": "Lycaonia", "predictions": {"rank_1": "Lycaonia", "rank_2": "Galatia", "rank_3": "Lycaonia, excl. English"}}
+{"real_response": "Phrygia", "predictions": {"rank_1": "Phrygia", "rank_2": "Phrydia,Phrygia", "rank_3": "Phrygian 2024"}}
+{"real_response": "Euboia", "predictions": {"rank_1": "Attica", "rank_2": "Syria and Phoenicia", "rank_3": "Pisidia"}}
+{"real_response": "Italy, incl. Magna Graecia", "predictions": {"rank_1": "Italy, incl. Magna Graecia", "rank_2": "Italy, incl. Magna Graecdia", "rank_3": "Italy, excl. Magna Graecia"}}
+{"real_response": "Delphi", "predictions": {"rank_1": "Delphi", "rank_2": "Doric Sporades", "rank_3": "Del phiokεetian"}}
+{"real_response": "unspecified subregion", "predictions": {"rank_1": "unspecified subregion", "rank_2": "Scythia Minor", "rank_3": "unspecifiedAttica"}}
+{"real_response": "unspecified subregion", "predictions": {"rank_1": "Attica", "rank_2": "Thessaly", "rank_3": "Lydia"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Ioniaassistant\n\nIonia", "rank_3": "Ionia /Ionia"}}
+{"real_response": "Lakonia and Messenia", "predictions": {"rank_1": "Lakonia and Messenia", "rank_2": "Lakonia andMesopotamia", "rank_3": "Lakonia and Messopotamia"}}
+{"real_response": "Pisidia", "predictions": {"rank_1": "Pisidia", "rank_2": "Pamphylia", "rank_3": "Lycia"}}
+{"real_response": "Africa Proconsularis", "predictions": {"rank_1": "Africa Proconsularis", "rank_2": "Egypt and Nubia", "rank_3": "Africa ProEgyptoEgyptEgyptEgyptEgyptEgyptEgypt"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Atticaassistant\n\nAttica", "rank_3": "Atticaassistant\n\nAttica"}}
+{"real_response": "Macedonia", "predictions": {"rank_1": "Macedonia", "rank_2": "Cos and Calymna", "rank_3": "Mysia"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Pisidia", "rank_2": "Cilicia and Isauria", "rank_3": "Palaestina"}}
+{"real_response": "unspecified subregion", "predictions": {"rank_1": "Cos and Calymna", "rank_2": "Syria and Phoenicia", "rank_3": "Samos"}}
+{"real_response": "Crete", "predictions": {"rank_1": "Sicily, Sardinia, and neighboring Islands", "rank_2": "Italy, incl. Magna Graecia", "rank_3": "Scythia Minor"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Mysia, Pergamon", "rank_3": "Delos"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Mysia, Pergamon", "rank_3": "Caria, Rhodian Peraia"}}
+{"real_response": "Doric Sporades", "predictions": {"rank_1": "Doric Sporades", "rank_2": "Saronic Gulf, Corinthia", "rank_3": "Rhodes and Saronic Gulf"}}
+{"real_response": "Phokis, Lokris, Aitolia, Akarnania, and Ionian Islands", "predictions": {"rank_1": "Cos and Calymna", "rank_2": "Phokis, Lokrace, andAttica", "rank_3": "Phokis, Lokrides, andAttica"}}
+{"real_response": "Cos and Calymna", "predictions": {"rank_1": "Cos and Calymna", "rank_2": "Rhodes and S. Dodecanese", "rank_3": "Rhodes and S. Dodecanoese"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Rhodes and S. Dodecanese", "rank_3": "Atticaassistant\n\nAttica"}}
+{"real_response": "Macedonia", "predictions": {"rank_1": "Caria", "rank_2": "Ionia", "rank_3": "Macedonia"}}
+{"real_response": "Saronic Gulf, Corinthia, and the Argolid", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "Saronic Gulf, Corinthia, and vicinity", "rank_3": "Saronic Gulf, excl. Corinthia"}}
+{"real_response": "Delphi", "predictions": {"rank_1": "Delphi", "rank_2": "Delphiassistant\n\nDelphi", "rank_3": "Delphiassistant\n\nDelphi"}}
+{"real_response": "Pamphylia", "predictions": {"rank_1": "Pamphylia", "rank_2": "Cilicia and Isauria", "rank_3": "Pamphiylie, Pisidia"}}
+{"real_response": "Palaestina", "predictions": {"rank_1": "Lycaonia", "rank_2": "Phrygia", "rank_3": "Attica"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "SIos /Egypt andSamos", "rank_3": "Caria, Rhodian Peraia"}}
+{"real_response": "Phrygia", "predictions": {"rank_1": "Phrygia", "rank_2": "Mysia", "rank_3": "Mysia, Pergamon"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Mysia, Pergamon", "rank_3": "Phrygia"}}
+{"real_response": "Thrace and Moesia Inferior", "predictions": {"rank_1": "Lakonia and Messenia", "rank_2": "Epidauria", "rank_3": "Laronia,Lakonia and Messenia"}}
+{"real_response": "Lycia", "predictions": {"rank_1": "Lycia", "rank_2": "Lyciaassistant\n\nLycia", "rank_3": "Syria and Phoenicia"}}
+{"real_response": "Caria", "predictions": {"rank_1": "Ionia", "rank_2": "Caria", "rank_3": "Aeolis"}}
+{"real_response": "Cos and Calymna", "predictions": {"rank_1": "Cos and Calymna", "rank_2": "Doric Sporades", "rank_3": "Mysia"}}
+{"real_response": "Phrygia", "predictions": {"rank_1": "Lydia", "rank_2": "Bithynia", "rank_3": "Phrygia"}}
+{"real_response": "Macedonia", "predictions": {"rank_1": "Macedonia", "rank_2": "Mysia, Pergamon", "rank_3": "Egypt and Nubia"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Caria", "rank_3": "Ionia /Lydia"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Ioniaassistant\n\nIonia", "rank_3": "Ioniaassistant\n\nIonia"}}
+{"real_response": "Epidauria", "predictions": {"rank_1": "Epidauria", "rank_2": "Italy, incl. Magna Graecia", "rank_3": "Epidauria,Epidauria"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Attica\n\nAttica", "rank_3": "333-34,333-35"}}
+{"real_response": "Thrace and Moesia Inferior", "predictions": {"rank_1": "Bithynia", "rank_2": "Pontus and Paphlagonia", "rank_3": "Cos and Calymna"}}
+{"real_response": "Macedonia", "predictions": {"rank_1": "Macedonia", "rank_2": "Thessaly", "rank_3": "Attica"}}
+{"real_response": "Bithynia", "predictions": {"rank_1": "Mysia", "rank_2": "Macedonia", "rank_3": "Thrace and Moesia Inferior"}}
+{"real_response": "Pisidia", "predictions": {"rank_1": "Lycaonia", "rank_2": "Pisidia", "rank_3": "Galatia"}}
+{"real_response": "Mysia", "predictions": {"rank_1": "Bithynia", "rank_2": "Lakonia and Messenia", "rank_3": "Macedonia"}}
+{"real_response": "Lydia", "predictions": {"rank_1": "Lydia", "rank_2": "Lycaonia", "rank_3": "Pontus and Paphlagonia"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Ionia,Lydia", "rank_3": "Ionia,Lydiadia"}}
+{"real_response": "Lakonia and Messenia", "predictions": {"rank_1": "Lakonia and Messenia", "rank_2": "Lakonia andMesenia", "rank_3": "Lakonia and Messopotania"}}
+{"real_response": "Caria", "predictions": {"rank_1": "Ionia", "rank_2": "Caria", "rank_3": "Caria, Rhodian Peraia"}}
+{"real_response": "Macedonia", "predictions": {"rank_1": "Macedonia", "rank_2": "Syria and Phoenicia", "rank_3": "Palaestina"}}
+{"real_response": "Delos", "predictions": {"rank_1": "Delos", "rank_2": "Delosassistant\n\nDelos", "rank_3": "Delusos,EgyptEgyptEgyptian"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Ioniaassistant\n\nIonia", "rank_3": "Samosassistant\n\nSamos"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Mysia, Pergamon", "rank_3": "Attica"}}
+{"real_response": "Thrace and Moesia Inferior", "predictions": {"rank_1": "Thrace and Moesia Inferior", "rank_2": "Thrace and MoESia Inferior", "rank_3": "Thrace and Moesia Superior"}}
+{"real_response": "Delphi", "predictions": {"rank_1": "Delphi", "rank_2": "Pontus and Palaestina", "rank_3": "Pontus and PaphLdia"}}
+{"real_response": "Epeiros, Illyria, and Dalmatia", "predictions": {"rank_1": "Bithynia", "rank_2": "Mysia", "rank_3": "Crete"}}
+{"real_response": "Thessaly", "predictions": {"rank_1": "Thessaly", "rank_2": "Cos and Calymna", "rank_3": "ThThessaly"}}
+{"real_response": "Syria and Phoenicia", "predictions": {"rank_1": "Syria and Phoenicia", "rank_2": "Syria andPhoenicia", "rank_3": "Palaestina"}}
+{"real_response": "Mysia", "predictions": {"rank_1": "Mysia", "rank_2": "Mysia, Pergamon", "rank_3": "Northern Aegean"}}
+{"real_response": "Delphi", "predictions": {"rank_1": "Delphi", "rank_2": "Del phi 0phi 0", "rank_3": "Del phi 0,,,"}}
+{"real_response": "Italy, incl. Magna Graecia", "predictions": {"rank_1": "Bithynia", "rank_2": "Italy, incl. Magna Graecia", "rank_3": "Saronic Gulf, excl. Corinthia"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": " AttAttAttAttAttAtt", "rank_3": " AttAttAttAttAtt"}}
+{"real_response": "Arabia", "predictions": {"rank_1": "Palaestina", "rank_2": "Syria and Phoenicia", "rank_3": "Arabia"}}
+{"real_response": "Lydia", "predictions": {"rank_1": "Lydia", "rank_2": "Lydiaassistant\n\nLydia", "rank_3": "Lydia /Pontus andPhrygia"}}
+{"real_response": "Epeiros, Illyria, and Dalmatia", "predictions": {"rank_1": "Italy, incl. Magna Graecia", "rank_2": "Epeiros, Illyria, and Delos", "rank_3": "Epeiros / Illyria / Albania"}}
+{"real_response": "Northern Aegean", "predictions": {"rank_1": "Northern Aegean", "rank_2": "Egypt and Nubia", "rank_3": "Northern Aegeeian andLydia"}}
+{"real_response": "Crete", "predictions": {"rank_1": "Crete", "rank_2": "Sicily, Sardinia, and neighboring Islands", "rank_3": "Megaris, Oropia, and Boiotia"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Cyclades, excl. Delos", "rank_3": "Delos"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Attica", "rank_3": "Ioniaassistant\n\nIonia"}}
+{"real_response": "Rhodes and S. Dodecanese", "predictions": {"rank_1": "Rhosia, Rhosia", "rank_2": "Rhosia,Rhosus", "rank_3": "Rhodes andSaronic Gulf"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Egypt and Nubia", "rank_3": "Delos"}}
+{"real_response": "Scythia Minor", "predictions": {"rank_1": "Scythia Minor", "rank_2": "Macedonia", "rank_3": "Scythia Majora"}}
+{"real_response": "Doric Sporades", "predictions": {"rank_1": "Doric Sporades", "rank_2": "Phrygia", "rank_3": "Caria"}}
+{"real_response": "Caria", "predictions": {"rank_1": "Ionia", "rank_2": "Italy, incl. Magna Graecia", "rank_3": "Ioniaassistant\n\nIonia"}}
+{"real_response": "Macedonia", "predictions": {"rank_1": "Syria and Phoenicia", "rank_2": "Macedonia", "rank_3": "Syria andPhoenicia"}}
+{"real_response": "Thrace and Moesia Inferior", "predictions": {"rank_1": "Macedonia", "rank_2": "Moesia Superior", "rank_3": "Thrace and Möysia"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Thrace and Moesia Inferior", "rank_3": "Thessaly"}}
+{"real_response": "Samos", "predictions": {"rank_1": "Ionia", "rank_2": "Ioniaassistant\n\nIonia", "rank_3": "Ioniaassistant\n\nIonia"}}
+{"real_response": "Sicily, Sardinia, and neighboring Islands", "predictions": {"rank_1": "Doric Sporades", "rank_2": "Sicily, Sardinia and neighboring Islands", "rank_3": "Sicily, Sardinia, and vicinity"}}
+{"real_response": "Rhodes and S. Dodecanese", "predictions": {"rank_1": "Rhodes and S. Dodecanese", "rank_2": " Rhodes and S. Dodecanese", "rank_3": "Rhodes and S. Dodecanoese"}}
+{"real_response": "Pisidia", "predictions": {"rank_1": "Lycia", "rank_2": "Phrygia", "rank_3": "Bactria, Sogdiana"}}
+{"real_response": "Arabia", "predictions": {"rank_1": "Arabia", "rank_2": "Lycaonia", "rank_3": "Armenia"}}
+{"real_response": "Elis", "predictions": {"rank_1": "Megaris, Oropia, and Boiotia", "rank_2": "Egypt and Nubia", "rank_3": "unspecified subregion"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Eleusis", "rank_3": "AttICA,Attica"}}
+{"real_response": "Cos and Calymna", "predictions": {"rank_1": "Cos and Calymna", "rank_2": "Northern Aegean", "rank_3": "Cos and Calycia"}}
+{"real_response": "Delphi", "predictions": {"rank_1": "Delphi", "rank_2": "unspecified subregion", "rank_3": "Delphiassistant\n\nDelphi"}}
+{"real_response": "Delphi", "predictions": {"rank_1": "Delphi", "rank_2": "Delphiassistant\n\nDelphi", "rank_3": "Delphiassistant\n\nDelphi"}}
+{"real_response": "Lycaonia", "predictions": {"rank_1": "Lycia", "rank_2": "Lakonia and Messenia", "rank_3": "Lydia"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Eleusis", "rank_3": "Rhamnous"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Delos", "rank_3": "Delusos, Drangiana"}}
+{"real_response": "Lydia", "predictions": {"rank_1": "Cappadocia", "rank_2": "Syria and Phoenicia", "rank_3": "Lydia"}}
+{"real_response": "Saronic Gulf, Corinthia, and the Argolid", "predictions": {"rank_1": "Cos and Calymna", "rank_2": "Italy, incl. Magna Graecia", "rank_3": "Italy, excl. Magna Graecia"}}
+{"real_response": "Phrygia", "predictions": {"rank_1": "Phrygia", "rank_2": "Lycaonia", "rank_3": "Phrygia /Phrygia"}}
+{"real_response": "Caria", "predictions": {"rank_1": "Lakonia and Messenia", "rank_2": "Pisidia", "rank_3": "Egypt and Nubia"}}
+{"real_response": "Thrace and Moesia Inferior", "predictions": {"rank_1": "Scythia Minor", "rank_2": "Thrace and Möysia", "rank_3": "Thrace and Moesdia"}}
+{"real_response": "Phrygia", "predictions": {"rank_1": "Phrygia", "rank_2": "unspecified subregion", "rank_3": "Ionia"}}
+{"real_response": "Galatia", "predictions": {"rank_1": "Galatia", "rank_2": " Galatia", "rank_3": " galatia"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Cyclades, excl. Delos", "rank_3": "Cilicia and Isauria"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Italy, incl. Magna Graecia", "rank_2": "Thrace and Moesia Inferior", "rank_3": "Euboia"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Mysia, Pergamon", "rank_3": "Epidauria"}}
+{"real_response": "Delphi", "predictions": {"rank_1": "Delphi", "rank_2": "Delphiassistant\n\nDelphi", "rank_3": "Delphiassistant\n\nDelphi"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Italy, incl. Magna Graecia", "rank_3": "Epidauria"}}
+{"real_response": "Lydia", "predictions": {"rank_1": "Lydia", "rank_2": "Lydiaassistant\n\nLydia", "rank_3": "Lydiaassistant\n\nLydia"}}
+{"real_response": "Bithynia", "predictions": {"rank_1": "Lycaonia", "rank_2": "Cos and Calymna", "rank_3": "Cappadocia"}}
+{"real_response": "Thrace and Moesia Inferior", "predictions": {"rank_1": "Thrace and Moesia Inferior", "rank_2": "Phrygia", "rank_3": "Thrace and MoESia Inferior"}}
+{"real_response": "Delphi", "predictions": {"rank_1": "Delphi", "rank_2": "Lakonia and Messenia", "rank_3": "Epidauria"}}
+{"real_response": "Lydia", "predictions": {"rank_1": "Lydia", "rank_2": " Lydia /Mysia /Lydia", "rank_3": " Lydia, Rhodian Peraia"}}
+{"real_response": "Sicily, Sardinia, and neighboring Islands", "predictions": {"rank_1": "Sicily, Sardinia, and neighboring Islands", "rank_2": "Italy, incl. Magna Graecia", "rank_3": "Sicily,Sardinia, and neighboring Islands"}}
+{"real_response": "Caria", "predictions": {"rank_1": "Caria", "rank_2": "Caria, Rhodian Peraia", "rank_3": "Caria / Lydia"}}
+{"real_response": "Mysia", "predictions": {"rank_1": "Mysia", "rank_2": "Bithynia", "rank_3": "Pamphylia"}}
+{"real_response": "Mesopotamia", "predictions": {"rank_1": "Syria and Phoenicia", "rank_2": "Mesopotamia", "rank_3": "Palaestina"}}
+{"real_response": "Macedonia", "predictions": {"rank_1": "Italy, incl. Magna Graecia", "rank_2": "unspecified subregion", "rank_3": "Italy, excl. Magna Graecia"}}
+{"real_response": "Egypt and Nubia", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "Palaestina", "rank_3": "Egypt and Nubaia"}}
+{"real_response": "Thrace and Moesia Inferior", "predictions": {"rank_1": "Megaris, Oropia, and Boiotia", "rank_2": "Megaris, Oropia, and Boortos", "rank_3": "Attica"}}
+{"real_response": "Cos and Calymna", "predictions": {"rank_1": "Cos and Calymna", "rank_2": "Caria, Rhodian Peraia", "rank_3": "Cos and Calycia"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Atticaassistant\n\nAttica", "rank_3": "Atticaassistant\n\nAttica"}}
+{"real_response": "Megaris, Oropia, and Boiotia", "predictions": {"rank_1": "Megaris, Oropia, and Boiotia", "rank_2": "Italy, incl. Magna Graecia", "rank_3": "Megaris, Oropia, and Boiydia"}}
+{"real_response": "Phrygia", "predictions": {"rank_1": "Phrygia", "rank_2": "Pontus and Paphlagonia", "rank_3": "Phrydia,Phrygia"}}
+{"real_response": "Syria and Phoenicia", "predictions": {"rank_1": "Syria and Phoenicia", "rank_2": "Syria andPhoenicia", "rank_3": "Egypt and Nubia"}}
+{"real_response": "Egypt and Nubia", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "Cyrenaïca", "rank_3": "unspecified subregion"}}
+{"real_response": "Crete", "predictions": {"rank_1": "Crete", "rank_2": "Crepe Mercosoricos", "rank_3": "Crepe MerCreepys"}}
+{"real_response": "Pisidia", "predictions": {"rank_1": "Pisidia", "rank_2": "Lycia", "rank_3": "Lakonia and Messenia"}}
+{"real_response": "Egypt and Nubia", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "Egypt and Nubaia", "rank_3": "Egypt, Nubia, and Sahara"}}
+{"real_response": "unspecified subregion", "predictions": {"rank_1": "unspecified subregion", "rank_2": "unspecifiableEgypt and Nubia", "rank_3": "unspecifiedEgypt and Nubia"}}
+{"real_response": "Italy, incl. Magna Graecia", "predictions": {"rank_1": "Pontus and Paphlagonia", "rank_2": "Thrace and Moesia Inferior", "rank_3": "Italy, incl. Magna Graecia"}}
+{"real_response": "Macedonia", "predictions": {"rank_1": "Syria and Phoenicia", "rank_2": "Thrace and Moesia Superior", "rank_3": "Thrace and Moistia Inferior"}}
+{"real_response": "Megaris, Oropia, and Boiotia", "predictions": {"rank_1": "Bithynia", "rank_2": "Attica", "rank_3": "Italy, excl. Caldia"}}
+{"real_response": "Cyclades, excl. Delos", "predictions": {"rank_1": "Mysia, Pergamon", "rank_2": "Lydia", "rank_3": "Ionia"}}
+{"real_response": "Arabia", "predictions": {"rank_1": "Arabia", "rank_2": "Syria and Phoenicia", "rank_3": "Palaestina"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Atticaassistant\n\nAttica", "rank_3": "Atticaassistant\n\nAttica"}}
+{"real_response": "Bithynia", "predictions": {"rank_1": "Bithynia", "rank_2": "Phrygia", "rank_3": "Bithynian Peninsula"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Northern Aegean", "rank_3": "Northern Aegean\n\nAttica"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Atticaassistant\n\nAttica", "rank_3": "Atticaassistant\n\nAttica"}}
+{"real_response": "Pisidia", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "Syria and Phoenicia", "rank_3": "Macedonia"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Chios", "rank_3": "Ionia /Ionia"}}
+{"real_response": "Delphi", "predictions": {"rank_1": "Delphi", "rank_2": "Del_phiλ,Delphi", "rank_3": "Del phiok,Delphi"}}
+{"real_response": "Galatia", "predictions": {"rank_1": "Phrygia", "rank_2": "Pisidia", "rank_3": "Lycaonia"}}
+{"real_response": "Scythia Minor", "predictions": {"rank_1": "Scythia Minor", "rank_2": "Pisidia", "rank_3": "Palaestina"}}
+{"real_response": "Lydia", "predictions": {"rank_1": "Mysia, Pergamon", "rank_2": "Lydia", "rank_3": "Mysia"}}
+{"real_response": "Phokis, Lokris, Aitolia, Akarnania, and Ionian Islands", "predictions": {"rank_1": "Phokis, Lokris, Loktone, andAttica", "rank_2": "Phokis, Lokris,Attica,Delphi", "rank_3": "Phokis, Lokris,Attica,Arabia"}}
+{"real_response": "Mysia, Pergamon", "predictions": {"rank_1": "Macedonia", "rank_2": "Troas", "rank_3": "Ionia"}}
+{"real_response": "Galatia", "predictions": {"rank_1": "Galatia", "rank_2": "Gallia", "rank_3": "galatia"}}
+{"real_response": "Phrygia", "predictions": {"rank_1": "Phrygia", "rank_2": "Caria", "rank_3": "Lydia"}}
+{"real_response": "Delphi", "predictions": {"rank_1": "Delphi", "rank_2": "Doric Sporades", "rank_3": "Del phiokε, 0"}}
+{"real_response": "Euboia", "predictions": {"rank_1": "Macedonia", "rank_2": "Delos", "rank_3": "Caria"}}
+{"real_response": "Italy, incl. Magna Graecia", "predictions": {"rank_1": "Italy, incl. Magna Graecia", "rank_2": "Thrace and Moesia Inferior", "rank_3": "Thessaly"}}
+{"real_response": "Lycia", "predictions": {"rank_1": "Lycia", "rank_2": "Cilicia and Isauria", "rank_3": "Cappadocia"}}
+{"real_response": "Delphi", "predictions": {"rank_1": "Delphi", "rank_2": "Caria", "rank_3": "Ionia"}}
+{"real_response": "Egypt and Nubia", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "Egypt and Nubaia", "rank_3": "Egypt and Nубia"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Phrygia", "rank_2": "Ionia", "rank_3": "Lydia"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Ioniaassistant\n\nIonia", "rank_3": "Ioniaassistant\n\nIonia"}}
+{"real_response": "Scythia Minor", "predictions": {"rank_1": "Macedonia", "rank_2": "Ionia", "rank_3": "Thrace and Moesia Superior"}}
+{"real_response": "Delos", "predictions": {"rank_1": "Cyclades, excl. Delos", "rank_2": "Delos", "rank_3": "Cilicia and Isauria"}}
+{"real_response": "Caria", "predictions": {"rank_1": "Ionia", "rank_2": "Caria, Rhodian Peraia", "rank_3": "Ioniaassistant\n\nIonia"}}
+{"real_response": "Caria", "predictions": {"rank_1": "Galatia", "rank_2": "Pamphylia", "rank_3": "Mysia, Pergamon"}}
+{"real_response": "Thrace and Moesia Inferior", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "Cilicia and Isauria", "rank_3": "Cyclades, excl. Delos"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Samos", "rank_3": "Northern Aegean"}}
+{"real_response": "Lakonia and Messenia", "predictions": {"rank_1": "Lakonia and Messenia", "rank_2": "Lakonia andMesenia", "rank_3": "Lakonia and Messopotania"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Atticaassistant\n\nAttica", "rank_3": "Atticaassistant\n\nAttica"}}
+{"real_response": "Pisidia", "predictions": {"rank_1": "Pisidia", "rank_2": "Lycia", "rank_3": "Phrygia"}}
+{"real_response": "Lycia", "predictions": {"rank_1": "Lycia", "rank_2": "LLycia", "rank_3": "Pisidia"}}
+{"real_response": "Crete", "predictions": {"rank_1": "Crete", "rank_2": "Attica", "rank_3": "Crepeining,Crete"}}
+{"real_response": "Samos", "predictions": {"rank_1": "Samos", "rank_2": "Thrace and Moesia Inferior", "rank_3": "Samithrace and Colchis"}}
+{"real_response": "Cos and Calymna", "predictions": {"rank_1": "Cos and Calymna", "rank_2": "Cos and CalymNA, andCrete", "rank_3": "Cos andreia --Cos and Calymna"}}
+{"real_response": "Lycia", "predictions": {"rank_1": "Ionia", "rank_2": "Syria and Phoenicia", "rank_3": "Samos"}}
+{"real_response": "Pamphylia", "predictions": {"rank_1": "Ionia", "rank_2": "Arabia", "rank_3": "Egypt and Nubia"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Egypt and Nubia", "rank_3": "Ionia /Lydia"}}
+{"real_response": "Crete", "predictions": {"rank_1": "Crete", "rank_2": "Lakonia and Messenia", "rank_3": "Lycia"}}
+{"real_response": "Pisidia", "predictions": {"rank_1": "Pamphylia", "rank_2": "Pisidia", "rank_3": "Lycaonia"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Ionia / Gulf ofLydia", "rank_3": "Ioniaassistant\n\nIonia"}}
+{"real_response": "Moesia Superior", "predictions": {"rank_1": "Saronic Gulf, Corinthia, and the Argolid", "rank_2": "Sicily, Sardinia, and neighboring Islands", "rank_3": "Thrace and Moesia Inferior"}}
+{"real_response": "Epeiros, Illyria, and Dalmatia", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "Egypt and Nubaia", "rank_3": "EgyptandEgyptosEgyptEgyptosEgypt"}}
+{"real_response": "Lycia", "predictions": {"rank_1": "Lycia", "rank_2": "Mysia, Pergamon", "rank_3": "Mycia, Pergamon"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Atticaassistant\n\nAttica", "rank_3": "Atticaassistant\n\nAttica"}}
+{"real_response": "Phrygia", "predictions": {"rank_1": "Cos and Calymna", "rank_2": "Phrygia", "rank_3": "Ionia"}}
+{"real_response": "Egypt and Nubia", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "Africa Proconsularis", "rank_3": "Egypt and Nubaia"}}
+{"real_response": "Rhodes and S. Dodecanese", "predictions": {"rank_1": "Rhodes and S. Dodecha", "rank_2": "Rhodes and S. Dodeshan", "rank_3": "Rhodes and S Dodecanese"}}
+{"real_response": "Phrygia", "predictions": {"rank_1": "Pisidia", "rank_2": "Palaestina", "rank_3": "Cilicia and Isauria"}}
+{"real_response": "Egypt and Nubia", "predictions": {"rank_1": "Sicily, Sardinia, and neighboring Islands", "rank_2": "Italy, incl. Magna Graecia", "rank_3": "Scythia Minor"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Mysia, Pergamon", "rank_3": "Mysia"}}
+{"real_response": "Pontus and Paphlagonia", "predictions": {"rank_1": "Pontus and Paphlagonia", "rank_2": "Syria and Phoenicia", "rank_3": "Pontus and Paph-lagonia"}}
+{"real_response": "Italy, incl. Magna Graecia", "predictions": {"rank_1": "Mesopotamia", "rank_2": "Bithynia", "rank_3": "Egypt and Nubia"}}
+{"real_response": "Italy, incl. Magna Graecia", "predictions": {"rank_1": "Italy, incl. Magna Graecia", "rank_2": "Phrygia", "rank_3": "Macedonia"}}
+{"real_response": "Galatia", "predictions": {"rank_1": "Phrygia", "rank_2": "Galatia", "rank_3": "Pisidia"}}
+{"real_response": "Epidauria", "predictions": {"rank_1": "Epidauria", "rank_2": "Epidauria\n\nEpidauria", "rank_3": "Epidavria,Epidauria"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Mysia, Pergamon", "rank_3": "Lakonia and Messenia"}}
+{"real_response": "unspecified subregion", "predictions": {"rank_1": "unspecified subregion", "rank_2": "Egypt and Nubia", "rank_3": "un spécifiedAttica"}}
+{"real_response": "Megaris, Oropia, and Boiotia", "predictions": {"rank_1": "Megaris, Oropia, and Boiotia", "rank_2": "Epidauria", "rank_3": "Megaris, Oropia, and Boiydia"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Caria", "rank_2": "Samos", "rank_3": "Ionia"}}
+{"real_response": "Egypt and Nubia", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "Egypt and Nubaia", "rank_3": "Egypt and Nubsia"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Ioniaassistant\n\nIonia", "rank_3": "Ioniaassistant\n\nIonia"}}
+{"real_response": "Delphi", "predictions": {"rank_1": "Delphi", "rank_2": "Delphiassistant\n\nDelphi", "rank_3": "Delphiassistant\n\nDelphi"}}
+{"real_response": "Cos and Calymna", "predictions": {"rank_1": "Cos and Calymna", "rank_2": "Rhodes and S. Dodecanese", "rank_3": "Cos and Calycia"}}
+{"real_response": "Caria", "predictions": {"rank_1": "Mysia", "rank_2": "Mysia, Pergamon", "rank_3": "Macedonia"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Caria", "rank_3": "Caria, Rhodian Peraia"}}
+{"real_response": "Egypt and Nubia", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "Italy, incl. Magna Graecia", "rank_3": "Cyrenaïca"}}
+{"real_response": "Lakonia and Messenia", "predictions": {"rank_1": "Lakonia and Messenia", "rank_2": "Lakonia andMesenia", "rank_3": "Lakonia and Messania"}}
+{"real_response": "Lydia", "predictions": {"rank_1": "Troas", "rank_2": "Syria and Phoenicia", "rank_3": "Mysia"}}
+{"real_response": "Thrace and Moesia Inferior", "predictions": {"rank_1": "Thrace and Moesia Superior", "rank_2": "Bithynia", "rank_3": "Thrace and Moistia Inferior"}}
+{"real_response": "Macedonia", "predictions": {"rank_1": "Macedonia", "rank_2": "Macedονia", "rank_3": "Macedонianacedonia"}}
+{"real_response": "Caria", "predictions": {"rank_1": "Caria", "rank_2": "Cos and Calymna", "rank_3": "Cardia,Lydia"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Scythia Minor", "rank_3": "Thessaly"}}
+{"real_response": "Rhodes and S. Dodecanese", "predictions": {"rank_1": "Rhodes and S. Dodecanese", "rank_2": "Egypt and Nubia", "rank_3": "Rhodes and S. Dodecanoese"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Eleusis", "rank_3": "Phrygia"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Lycaonia", "rank_3": "Thessaly"}}
+{"real_response": "Italy, incl. Magna Graecia", "predictions": {"rank_1": "Italy, incl. Magna Graecia", "rank_2": "Macedonia", "rank_3": "Italy, incl. Magnа Graecia"}}
+{"real_response": "Thessaly", "predictions": {"rank_1": "Ionia", "rank_2": "Scythia Minor", "rank_3": "Saronic Gulf, excl. Corinth"}}
+{"real_response": "Egypt and Nubia", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "Egypt and Nubaia", "rank_3": "Egypt and Nubsia"}}
+{"real_response": "Scythia Minor", "predictions": {"rank_1": "Italy, incl. Magna Graecia", "rank_2": "Macedonia", "rank_3": "Mysia"}}
+{"real_response": "Pontus and Paphlagonia", "predictions": {"rank_1": "Pontus and Paphlagonia", "rank_2": "Italy, incl. Magna Graecia", "rank_3": "Galatia"}}
+{"real_response": "Caria", "predictions": {"rank_1": "Thrace and Moesia Inferior", "rank_2": "Samos", "rank_3": "Caria"}}
+{"real_response": "Cos and Calymna", "predictions": {"rank_1": "Cos and Calymna", "rank_2": "Cos andCalymna", "rank_3": "Cos and Calycia"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Megaris, Oropia, and Boiotia", "rank_3": "Egypt and Nubia"}}
+{"real_response": "Egypt and Nubia", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "Syria and Phoenicia", "rank_3": "Cyrenaïca"}}
+{"real_response": "Mysia, Pergamon", "predictions": {"rank_1": "Mysia, Pergamon", "rank_2": "Caria, Rhodian Peraia", "rank_3": "Lydia"}}
+{"real_response": "Saronic Gulf, Corinthia, and the Argolid", "predictions": {"rank_1": "Bithynia", "rank_2": "Attica", "rank_3": "Saronic Corinthia"}}
+{"real_response": "Egypt and Nubia", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "Syria and Phoenicia", "rank_3": "Africa Proconsularis"}}
+{"real_response": "Phrygia", "predictions": {"rank_1": "Phrygia", "rank_2": "Mysia, Pergamon", "rank_3": "Phrydia,Phrygia"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Euboia", "rank_2": "Macedonia", "rank_3": "Mysia"}}
+{"real_response": "Epeiros, Illyria, and Dalmatia", "predictions": {"rank_1": "Epeiros, Illyria, and Delos", "rank_2": "Epeiros, Ilryia, andAttica", "rank_3": "Epeiros, Ilrydia, andCrete"}}
+{"real_response": "unspecified subregion", "predictions": {"rank_1": "Italy, incl. Magna Graecia", "rank_2": "Attica", "rank_3": "Phrygia"}}
+{"real_response": "Rhodes and S. Dodecanese", "predictions": {"rank_1": "Ionia", "rank_2": "Crete", "rank_3": "Lesbos,Egypt andCyrenaïca"}}
+{"real_response": "Delphi", "predictions": {"rank_1": "Delphi", "rank_2": "Doric Sporades", "rank_3": "DelPhiphi,Delphi"}}
+{"real_response": "Rhamnous", "predictions": {"rank_1": "Rhamnous", "rank_2": "Northern Aegean", "rank_3": "Attica"}}
+{"real_response": "Macedonia", "predictions": {"rank_1": "Macedonia", "rank_2": "Egypt and Nubia", "rank_3": "Mysia, Pergamon"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Atticaassistant\n\nAttica", "rank_3": "AttICA,Egypt and Nubia"}}
+{"real_response": "Elis", "predictions": {"rank_1": "Elis", "rank_2": "Lakonia and Messenia", "rank_3": "Elisassistant\n\nElis"}}
+{"real_response": "unspecified subregion", "predictions": {"rank_1": "Thrace and Moesia Inferior", "rank_2": "Sicily, Sardinia, and neighboring Islands", "rank_3": "Scythia Minor"}}
+{"real_response": "Delphi", "predictions": {"rank_1": "Attica", "rank_2": "Italy, incl. Magna Graecia", "rank_3": "Sicily, Sardinia, and neighboring Islands"}}
+{"real_response": "Cilicia and Isauria", "predictions": {"rank_1": "Cilicia and Isauria", "rank_2": "Syria and Phoenicia", "rank_3": "Egypt and Nubia"}}
+{"real_response": "unspecified subregion", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "Syria and Phoenicia", "rank_3": "Lycaonia"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Caria", "rank_3": "Samos"}}
+{"real_response": "Italy, incl. Magna Graecia", "predictions": {"rank_1": "Italy, incl. Magna Graecia", "rank_2": "Ionia", "rank_3": "Phrygia"}}
+{"real_response": "Cilicia and Isauria", "predictions": {"rank_1": "Cilicia and Isauria", "rank_2": "Pontus and Paphlagonia", "rank_3": "Cappadocia"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Rhamnous", "rank_3": "Delphi"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Eleusis", "rank_3": "Rhamnous"}}
+{"real_response": "Italy, incl. Magna Graecia", "predictions": {"rank_1": "Lakonia and Messenia", "rank_2": "Thessaly", "rank_3": "Thrace and Moesia Inferior"}}
+{"real_response": "Crete", "predictions": {"rank_1": "Crete", "rank_2": "Cyclades, excl. Delos", "rank_3": "Creteassistant\n\nCrete"}}
+{"real_response": "Caria", "predictions": {"rank_1": "Caria", "rank_2": "Caria, Rhodian Peraia", "rank_3": "Cariaassistant\n\nCaria"}}
+{"real_response": "unspecified subregion", "predictions": {"rank_1": "unspecified subregion", "rank_2": "un specifiedEgypt and Nubia", "rank_3": "unspecified sub-region"}}
+{"real_response": "Delos", "predictions": {"rank_1": "Delos", "rank_2": "Rhodes and S. Dodecanese", "rank_3": "Delosassistant\n\nDelos"}}
+{"real_response": "Arabia", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "Palaestina", "rank_3": "Arabia"}}
+{"real_response": "Delphi", "predictions": {"rank_1": "Delphi", "rank_2": "Del phiokItalyAttica", "rank_3": "Del phiokAttica"}}
+{"real_response": "Syria and Phoenicia", "predictions": {"rank_1": "Syria and Phoenicia", "rank_2": "unspecified subregion", "rank_3": "Armenia"}}
+{"real_response": "unspecified subregion", "predictions": {"rank_1": "unspecified subregion", "rank_2": "unnumberedItalyItalyItaly", "rank_3": "unspecified sub-region"}}
+{"real_response": "Thrace and Moesia Inferior", "predictions": {"rank_1": "Macedonia", "rank_2": "Bithynia", "rank_3": "Mysia"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "AttICA,Attica,Attica", "rank_3": "Atticaassistant\n\nAttica"}}
+{"real_response": "Lycia", "predictions": {"rank_1": "Lycia", "rank_2": "Lycaonia", "rank_3": "Pamphylia"}}
+{"real_response": "Thessaly", "predictions": {"rank_1": "Thessaly", "rank_2": "Thess AlydiaEgyptEgyptAttica", "rank_3": "ThesiaEgyptEgyptEgyptEgyptEgypt"}}
+{"real_response": "Pisidia", "predictions": {"rank_1": "Pisidia", "rank_2": "Lycia", "rank_3": " Pisidia"}}
+{"real_response": "Mysia, Pergamon", "predictions": {"rank_1": "Thrace and Moesia Inferior", "rank_2": "Mysia, Pergamon", "rank_3": "Moesia Superior"}}
+{"real_response": "Syria and Phoenicia", "predictions": {"rank_1": "Syria and Phoenicia", "rank_2": "Syria andPhoenicia", "rank_3": "Palaestina"}}
+{"real_response": "Pisidia", "predictions": {"rank_1": "Pisidia", "rank_2": "Sisانیεvo", "rank_3": "Lycia"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Delphi", "rank_3": "Atticaassistant\n\nAttica"}}
+{"real_response": "Delphi", "predictions": {"rank_1": "Delphi", "rank_2": "Del phiλο position,Delphi", "rank_3": "Del phi 0,Delphi"}}
+{"real_response": "Chios", "predictions": {"rank_1": "Cos and Calymna", "rank_2": "Attica", "rank_3": "Ionia"}}
+{"real_response": "Mysia, Pergamon", "predictions": {"rank_1": "Cappadocia", "rank_2": "Cyclades, excl. Delos", "rank_3": "Cilicia and Isauria"}}
+{"real_response": "Bithynia", "predictions": {"rank_1": "Macedonia", "rank_2": "Phrygia", "rank_3": "Lycaonia"}}
+{"real_response": "Caria", "predictions": {"rank_1": "Mysia", "rank_2": "Caria", "rank_3": "Ionia"}}
+{"real_response": "Cos and Calymna", "predictions": {"rank_1": "Cos and Calymna", "rank_2": "Cos and Calycia", "rank_3": " Cosia, Calymna"}}
+{"real_response": "Pontus and Paphlagonia", "predictions": {"rank_1": "Pontus and Paphlagonia", "rank_2": "Phrygia", "rank_3": "Pontus andPaphlagonia"}}
+{"real_response": "Arabia", "predictions": {"rank_1": "Arabia", "rank_2": "Thrace and Moesia Inferior", "rank_3": "Egypt and Nubia"}}
+{"real_response": "Delphi", "predictions": {"rank_1": "Delphi", "rank_2": "Chios", "rank_3": "Chiosassistant\n\nDelphi"}}
+{"real_response": "Attica", "predictions": {"rank_1": "unspecified subregion", "rank_2": "Lakonia and Messenia", "rank_3": "Ionia"}}
+{"real_response": "Rhodes and S. Dodecanese", "predictions": {"rank_1": "unspecified subregion", "rank_2": "unspecifiedEgypt and Nubia", "rank_3": "unspecifiedEgypt and Nubia"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Atticaassistant\n\nAttica", "rank_3": "Atticaassistant\n\nAttica"}}
+{"real_response": "Mysia", "predictions": {"rank_1": "unspecified subregion", "rank_2": "Northern Aegean", "rank_3": "Pontus and Phrygia"}}
+{"real_response": "Caria", "predictions": {"rank_1": "Caria", "rank_2": "Cariaassistant\n\nCaria", "rank_3": "Caria, Rhodian Peraia"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Chios", "rank_3": "Samos"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Caria", "rank_2": "Ionia", "rank_3": "Chios"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Scythia Minor", "rank_3": "Attia and DoniaAttica"}}
+{"real_response": "Saronic Gulf, Corinthia, and the Argolid", "predictions": {"rank_1": "Thrace and Moesia Inferior", "rank_2": "Macedonia", "rank_3": "Mysia, Pergamon"}}
+{"real_response": "Scythia Minor", "predictions": {"rank_1": "Thrace and Moesia Inferior", "rank_2": "Scythia Minor", "rank_3": "Macedonia"}}
+{"real_response": "Pisidia", "predictions": {"rank_1": "Pisidia", "rank_2": "Pamphylia", "rank_3": " Pisidia"}}
+{"real_response": "Italy, incl. Magna Graecia", "predictions": {"rank_1": "Lycaonia", "rank_2": "Palaestina", "rank_3": "Phrygia"}}
+{"real_response": "Egypt and Nubia", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "unspecified subregion", "rank_3": "Egypt and Nubaia"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Troas", "rank_3": "Crete"}}
+{"real_response": "Phrygia", "predictions": {"rank_1": "Phrygia", "rank_2": " Phrygia", "rank_3": "Phrydia,Phrygia"}}
+{"real_response": "Thrace and Moesia Inferior", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "Galatia", "rank_3": "Mysia, Pergamon"}}
+{"real_response": "Delphi", "predictions": {"rank_1": "Delphi", "rank_2": "Lakonia and Messenia", "rank_3": "Lakonia and Messopotamia"}}
+{"real_response": "Cos and Calymna", "predictions": {"rank_1": "Cos and Calymna", "rank_2": "Cos and Calycia", "rank_3": "Cos and CalymNA"}}
+{"real_response": "Galatia", "predictions": {"rank_1": "Lycaonia", "rank_2": "Galatia", "rank_3": "Pontus and Phrygia"}}
+{"real_response": "Egypt and Nubia", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "Syria and Phoenicia", "rank_3": "Cyrenaïca"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Northern Aegean", "rank_2": "Attica", "rank_3": "Syria and Phoenicia"}}
+{"real_response": "Cilicia and Isauria", "predictions": {"rank_1": "Cilicia and Isauria", "rank_2": "Syria and Phoenicia", "rank_3": "Cilicia and Isiaia"}}
+{"real_response": "Lycia", "predictions": {"rank_1": "Thrace and Moesia Inferior", "rank_2": "Macedonia", "rank_3": "Thessaly"}}
+{"real_response": "Macedonia", "predictions": {"rank_1": "Macedonia", "rank_2": "Macingaronos,Macedonia", "rank_3": "SMacedonia"}}
+{"real_response": "Macedonia", "predictions": {"rank_1": "Macedonia", "rank_2": "Macedονia", "rank_3": "Phrygia"}}
+{"real_response": "Epidauria", "predictions": {"rank_1": "Epidauria", "rank_2": "Rhodes and S. Dodecanese", "rank_3": "Lakonia and Messenia"}}
+{"real_response": "Thessaly", "predictions": {"rank_1": "Thessaly", "rank_2": "ThThessaly", "rank_3": "ThThessrydiaAttica"}}
+{"real_response": "Lydia", "predictions": {"rank_1": "Lydia", "rank_2": "Mysia, Pergamon", "rank_3": "Mysia"}}
+{"real_response": "Ionia", "predictions": {"rank_1": "Ionia", "rank_2": "Crete", "rank_3": "Lesbos,Egyptos andTroas"}}
+{"real_response": "Mysia, Pergamon", "predictions": {"rank_1": "Mysia, Pergamon", "rank_2": "Attica", "rank_3": "Ionia"}}
+{"real_response": "Pamphylia", "predictions": {"rank_1": "Macedonia", "rank_2": "Thrace and Moesia Inferior", "rank_3": "Mysia, Pergamon"}}
+{"real_response": "Macedonia", "predictions": {"rank_1": "Macedonia", "rank_2": "Attica", "rank_3": "Macedονia"}}
+{"real_response": "Egypt and Nubia", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "Thrace and Moesia Inferior", "rank_3": "Egypt and Nubaia"}}
+{"real_response": "Epidauria", "predictions": {"rank_1": "unspecified subregion", "rank_2": "Lakonia and Messenia", "rank_3": "Samos"}}
+{"real_response": "Arabia", "predictions": {"rank_1": "Bithynia", "rank_2": "Arabia", "rank_3": "Armenia"}}
+{"real_response": "Caria", "predictions": {"rank_1": "Caria", "rank_2": "Cariaassistant\n\nCaria", "rank_3": "Caria, Rhodian Peraia"}}
+{"real_response": "Caria", "predictions": {"rank_1": "Cos and Calymna", "rank_2": "Megaris, Oropia, and Boiotia", "rank_3": "Caria"}}
+{"real_response": "Saronic Gulf, Corinthia, and the Argolid", "predictions": {"rank_1": "Delos", "rank_2": "Saronic Gulf, excl. Corinth", "rank_3": "Italy, incl. Magna Gradia"}}
+{"real_response": "Euboia", "predictions": {"rank_1": "Euboia", "rank_2": "Egypt and Nubia", "rank_3": "Thessaly"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Thrace and Moesia Inferior", "rank_3": "Thrace andMoesia Inferior"}}
+{"real_response": "unspecified subregion", "predictions": {"rank_1": "Italy, incl. Magna Graecia", "rank_2": "unspecified subregion", "rank_3": "Italy, excl. Magna Graecia"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Atticaassistant\n\nAttica", "rank_3": "Atticaassistant\n\nAttica"}}
+{"real_response": "Rhamnous", "predictions": {"rank_1": "Attica", "rank_2": "Northern Aegean", "rank_3": "Rhamnous"}}
+{"real_response": "Syria and Phoenicia", "predictions": {"rank_1": "Syria and Phoenicia", "rank_2": "Egypt and Nubia", "rank_3": "Arabia"}}
+{"real_response": "Delphi", "predictions": {"rank_1": "Delphi", "rank_2": "Delphi\n\nDelphi", "rank_3": "Del_phi,Delphi"}}
+{"real_response": "Arabia", "predictions": {"rank_1": "Egypt and Nubia", "rank_2": "Arabia", "rank_3": "Euboia"}}
+{"real_response": "Attica", "predictions": {"rank_1": "Attica", "rank_2": "Atticaassistant\n\nAttica", "rank_3": "Atticaassistant\n\nAttica"}}

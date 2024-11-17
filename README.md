@@ -5,13 +5,13 @@ This repository contains files and resources used in a study that is currently u
 ## Overview
 
 - **Training and Test Data**: 
-  The scripts for downloading, formatting, and preprocessing papyri into training and test datasets are located in the `/train_data` directory. These scripts are numbered sequentially to allow easy replication or inspection of the data preparation process.
+  The scripts for downloading, formatting, and preprocessing papyri into training and test datasets are located in the `/train_data` directory. These scripts are numbered sequentially to promote replication or inspection of the data preparation process.
 
-  For inscriptions, refer to the [iphi repository](https://github.com/sommerschield/iphi). Apply scripts `6–14` from this repository with the necessary adjustments to process inscription data. Processed datasets (before applying scripts `8–14`) are available on Hugging Face at [this link](https://huggingface.co/collections/Ericu950/papyri-and-inscriptions-66ed3af86b665725dcc28ca5).
+  For inscriptions, refer to the [iphi repository](https://github.com/sommerschield/iphi). Apply scripts `6–14` from this repository with the necessary adjustments to process inscription data. Processed datasets (before applying scripts `8–16`) are available on Hugging Face at [this link](https://huggingface.co/collections/Ericu950/papyri-and-inscriptions-66ed3af86b665725dcc28ca5).
 
-- **Evaluation Notebooks**: 
-  - **`evals/01_generate_test_results.ipynb`**: Use this notebook to generate test results using the fine-tuned models. Note that GPU access is required for efficient execution.
-  - **`evals/02_compute_scores.ipynb`**: This notebook computes the evaluation scores based on pre-made evaluation files. Use this if you wish to inspect the evaluation metrics without regenerating test results.
+
+- **Evaluation**: 
+Evaluation scripts are availible in `/eval/scripts`, the test datasets m `/eval/test_data`, and the output, matching the results reported in the article, in  `/eval/results`
 
 - **Models**:  
   The fine-tuned models are available on Hugging Face: [Papyri and Inscriptions Collection](https://huggingface.co/collections/Ericu950/papyri-and-inscriptions-66ed3af86b665725dcc28ca5).
@@ -29,4 +29,4 @@ This repository contains files and resources used in a study that is currently u
 
 This research was supported by resources provided by the **National Academic Infrastructure for Supercomputing in Sweden (NAISS)**, partially funded by the **Swedish Research Council** through grant agreement no. 2022-06725.
 
-The study builds on the foundational work of Assael, Y., Sommerschield, T., Shillingford, B., et al., in their publication: *Restoring and attributing ancient texts using deep neural networks*. **Nature 603**, 280–283 (2022). [https://doi.org/10.1038/s41586-022-04448-z](https://doi.org/10.1038/s41586-022-04448-z)
+The study builds on the foundational work of Assael, Y., Sommerschield, T., Shillingford, B., et al., in their publication: *Restoring and attributing ancient texts using deep neural networks*. **Nature 603**, 280–283 (2022). [https://doi.org/10.1038/s41586-022-04448-z](https://doi.org/10.1038/s41586-022-04448-z) 

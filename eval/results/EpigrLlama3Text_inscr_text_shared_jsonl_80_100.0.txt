@@ -1,0 +1,15 @@
+Average CER for each length:
+Length 1: Average CER = 0.0633
+Length 2: Average CER = 0.1192
+Length 3: Average CER = 0.1487
+Length 4: Average CER = 0.1779
+Length 5: Average CER = 0.2502
+Length 6: Average CER = 0.2329
+Length 7: Average CER = 0.2974
+Length 8: Average CER = 0.2705
+Length 9: Average CER = 0.3032
+Length 10: Average CER = 0.3207
+
+Overall Average CER: 0.2183
+Top-1 Accuracy: 62.33%
+Top-20 Accuracy: 78.05%
